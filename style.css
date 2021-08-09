@@ -1,0 +1,25 @@
+body {
+    background-size: cover;
+}
+
+#first {
+    margin-top: 130px;
+}
+
+.heading {
+    padding: 5px;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.btn-primary {
+    width: 200px;
+    font-size: 21px;
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 100px;
+}
